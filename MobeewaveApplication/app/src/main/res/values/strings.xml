@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parker King-Fournier Mobeewave Application</string>
+
+    <string name="show_apdu">Click to show the APDU</string>
+    <string name="apdu">APDU</string>
+
+    <string name="show_tlv">Click to show the encrypted TLV</string>
+    <string name="tlv">TLV</string>
+
+    <string name="show_decrypt">Click to show the decrypted TLV</string>
+    <string name="decrypt">Decrypt</string>
+</resources>
